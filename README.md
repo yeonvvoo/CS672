@@ -1,3 +1,7 @@
+https://github.com/yufeiwang63/RL-VLM-F
+https://github.com/Farama-Foundation/Gymnasium-Robotics
+
+
 # RL-VLM-F
 This is the official codebase for:  
 [RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://rlvlmf2024.github.io/),   
